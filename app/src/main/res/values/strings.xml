@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Weteri</string>
+    <string name="action_settings">change city</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Advanced</string>
+    <string name="previous">Previous</string>
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+    <string name="wSpeed">wind speed\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020</string>
+    <string name="pres">Air pressure\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020</string>
+    <string name="vis">Visibility\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020</string>
+    <string name="h">relative humidity\u0020\u0020\u0020\u0020\u0020</string>
+    <string name="ms">\u0020m/s</string>
+    <string name="pa">\u0020Pa</string>
+    <string name="m">\u0020m</string>
+    <string name="p">\u0020%</string>
+
+
+</resources>
